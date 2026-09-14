@@ -574,12 +574,11 @@ Part of IILM University's Computer Science & Engineering curriculum.
 
 | Name | Role |
 |------|------|
-| Paridhi Khakolia | Team Member |
-| Varun | Team Member |
-| Hardik Bisht | Team Member |
-| Zayed Alam | Team Member |
 | Utkarsh Verma | Team Member |
-| Mr. Abhist | Supervisor |
+| Paridhi Khakolia | Team Member |
+| Zayed Alam | Team Member |
+
+
 
 ---
 
